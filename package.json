@@ -1,5 +1,5 @@
 {
-  "name": "@diet-hero/counters",
+  "name": "@diet-hero/counter-npm",
   "version": "1.0.1",
   "description": "",
   "main": "dist/index.js",
